@@ -1,4 +1,5 @@
-## sweet jesus what is this
+## script for analysis of samsung wearable data
+
 
 
 xtrain <- read.table("train/X_train.txt")
